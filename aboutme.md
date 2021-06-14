@@ -11,4 +11,4 @@ My name is Ziad. I have the following qualities:
 - I value honesty and hard work.
 
 What else do you need?
-Dm me on twitter @soli_of and ask away.
+Dm me on [twitter](twitter.com/soli_of) and ask away.
