@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/image.png"
+avatar: "/assets/img/images.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -43,11 +43,12 @@ social-network-links:
   github: N3r0m5ns3r
   twitter: soli_of
   linkedin: ziad-ouahmane
+  Monero: /assets/img/monero.png
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "14440617/n3ros"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -74,7 +75,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ziadouahmane.com"
+url-pretty: "ZO.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
