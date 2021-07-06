@@ -18,6 +18,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Basic markdown syntax: "https://www.markdownguide.org/basic-syntax/"
   Author's home: "https://ziadouahmane.com"
   donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
