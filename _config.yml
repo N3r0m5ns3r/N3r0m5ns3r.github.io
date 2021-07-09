@@ -19,6 +19,7 @@ navbar-links:
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Basic markdown syntax: "https://www.markdownguide.org/basic-syntax/"
+    - Master markdownL: "https://guides.github.com/features/mastering-markdown/"
   Author's home: "https://youtu.be/hVvEISFw9w0"
   donate(xmr): "/assets/img/monero.png"
 # --- Logo --- #
