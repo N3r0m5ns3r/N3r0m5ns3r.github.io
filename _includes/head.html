@@ -22,7 +22,8 @@
       {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
     {%- endif -%}
   {% endcapture %}
-
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/img/z.ico">
+  
   <title>{{ title }}</title>
 
   {% if site.author %}
