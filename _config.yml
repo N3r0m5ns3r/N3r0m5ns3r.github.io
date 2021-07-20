@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Z.com"
+url-pretty: "ziad.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -117,7 +117,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/josh-bean-medium-9501ba9f.jpg"
 footer-img: "/assets/img/josh-bean-medium-9501ba9f.jpg"
-page-img: "/assets/img/josh-bean-medium-9501ba9f.jpg"
+#page-img: "/assets/img/josh-bean-medium-9501ba9f.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
